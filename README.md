@@ -41,9 +41,6 @@ Chatbot RAG local permettant d'interroger un CV et un export LinkedIn, avec embe
 ### [Kaplan-Meier et Weibull](https://github.com/Valmdatascientest/survival-km-weibull-demo)
 Projet pédagogique d'analyse de survie sur données censurées avec courbes de Kaplan-Meier, modèle de Weibull, visualisations et interprétation des résultats.
 
-### [Prefect Iris Classification](https://github.com/Valmdatascientest/prefect-iris-classification)
-Pipeline de classification orchestré avec Prefect, conçu pour illustrer la reproductibilité, l'automatisation et le suivi d'un workflow machine learning.
-
 ## Ma démarche
 
 Je privilégie des solutions lisibles, testées et documentées. Mon objectif est de relier la qualité statistique du modèle à une implémentation réellement utilisable : API claire, configuration sécurisée, environnement reproductible et suivi des expérimentations.
