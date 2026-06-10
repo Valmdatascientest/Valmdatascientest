@@ -1,6 +1,6 @@
 # Valentin Milliet
 
-**Data Scientist spécialisé en NLP/RAG, MLOps, systèmes de recommandation et intelligence artificielle multimodale.**
+**Data Scientist / Ingenieur Machine Learning / Ingenieur MLOps spécialisé en NLP/RAG, MLOps, systèmes de recommandation et intelligence artificielle multimodale.**
 
 Je conçois des projets de machine learning de bout en bout : analyse exploratoire, préparation des données, modélisation, évaluation, API, conteneurisation, tests et automatisation CI/CD.
 
