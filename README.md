@@ -35,6 +35,9 @@ Je conçois des projets de machine learning de bout en bout : analyse exploratoi
 ### [Rakuten Multimodal MLOps](https://github.com/Valmdatascientest/rakuten_mlops)
 API MLOps de classification de produits combinant texte et image avec FastAPI, PyTorch, Transformers, EfficientNet, Docker, DVC et tests automatisés.
 
+### [Visio Camera Analyzer](https://github.com/Valmdatascientest/visio-camera-analyzer)
+Application locale de vision par ordinateur pour analyser des flux caméra, images, vidéos, écrans ou fenêtres macOS avec OpenCV DNN : détection d'objets YOLO/COCO, estimation de distance, pose OpenPose, mains et comptage approximatif des doigts visibles.
+
 ### [Profile Career Chatbot](https://github.com/Valmdatascientest/profile_chatbot)
 Chatbot RAG local permettant d'interroger un CV et un export LinkedIn, avec embeddings locaux, FastAPI, Streamlit, Ollama et support optionnel d'OpenAI.
 
