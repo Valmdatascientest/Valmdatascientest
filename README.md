@@ -1,6 +1,6 @@
 # Valentin Milliet
 
-**Data Scientist / Ingenieur Machine Learning / Ingenieur MLOps spécialisé en NLP/RAG, MLOps, systèmes de recommandation et intelligence artificielle multimodale.**
+**Data Scientist / Ingénieur Machine Learning / Ingénieur MLOps spécialisé en NLP/RAG, MLOps, systèmes de recommandation et intelligence artificielle multimodale.**
 
 Je conçois des projets de machine learning de bout en bout : analyse exploratoire, préparation des données, modélisation, évaluation, API, conteneurisation, tests et automatisation CI/CD.
 
@@ -10,24 +10,30 @@ Je conçois des projets de machine learning de bout en bout : analyse exploratoi
 - Développement de systèmes RAG et d'applications basées sur les LLM.
 - Modélisation de problèmes de recommandation, ranking et prédiction séquentielle.
 - Classification multimodale combinant texte et image.
+- Vision par ordinateur et traitement de flux vidéo sur mobile et desktop.
 - Industrialisation avec FastAPI, Docker, DVC, Prefect et GitHub Actions.
 - Attention particulière à la qualité du code, aux tests, à la sécurité et à la documentation.
 
 ## Stack technique
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 **Machine Learning :** scikit-learn, LightGBM, PyTorch, Transformers, ranking, séries temporelles et analyse de survie  
 **NLP et LLM :** RAG, embeddings, Sentence Transformers, Ollama, OpenAI  
+**Vision et mobile :** OpenCV, YOLO/COCO, OpenPose, analyse vidéo, Kotlin, Android  
 **MLOps :** FastAPI, Docker Compose, DVC, Prefect, CI/CD, tests automatisés  
 **Data :** pandas, NumPy, PostgreSQL, visualisation et analyse exploratoire
 
 ## Projets sélectionnés
+
+### [SpeedVision — estimation de vitesse par vision](https://github.com/Valmdatascientest/speedvision)
+Prototype Android expérimental en Kotlin pour estimer une vitesse relative à partir d'une vidéo locale, avec traitement d'images et intégration Meta prévue. Compétences : Kotlin, Android, vision par ordinateur, lecture vidéo et conception d'application mobile.
 
 ### [ENS / HrFlow - Job Recommendation Portfolio](https://github.com/Valmdatascientest/hrflow-job-recommendation-portfolio)
 Étude de cas publique sur un système de recommandation séquentielle : analyse exploratoire, génération de candidats, ranking MRR@10, prédiction d'action et suivi des scores.
