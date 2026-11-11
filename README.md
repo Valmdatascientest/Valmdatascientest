@@ -26,7 +26,7 @@ Je conçois des projets de machine learning de bout en bout : analyse exploratoi
 
 **Machine Learning :** scikit-learn, LightGBM, PyTorch, Transformers, ranking, séries temporelles et analyse de survie  
 **NLP et LLM :** RAG, embeddings, Sentence Transformers, Ollama, OpenAI  
-**Vision et mobile :** OpenCV, YOLO/COCO, OpenPose, analyse vidéo, Kotlin, Android  
+**Vision et mobile :** OpenCV, YOLO/COCO, OpenPose, analyse vidéo, Kotlin, Jetpack Compose, Hilt, Room, Bluetooth LE/Classic, sécurité Android  
 **MLOps :** FastAPI, Docker Compose, DVC, Prefect, CI/CD, tests automatisés  
 **Data :** pandas, NumPy, PostgreSQL, visualisation et analyse exploratoire
 
