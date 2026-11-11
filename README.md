@@ -32,6 +32,9 @@ Je conçois des projets de machine learning de bout en bout : analyse exploratoi
 
 ## Projets sélectionnés
 
+### [BlueScope AI — analyse Bluetooth locale](https://github.com/Valmdatascientest/bluescope-ai)
+Application Android native pour découvrir les périphériques BLE et Bluetooth Classic, analyser localement les preuves techniques et explorer GATT en lecture seule après consentement. L'historique est chiffré et l'application fonctionne hors ligne par défaut. Compétences : Kotlin, Jetpack Compose, Hilt, Room, Bluetooth LE/Classic et sécurité Android.
+
 ### [SpeedVision — estimation de vitesse par vision](https://github.com/Valmdatascientest/speedvision)
 Prototype Android expérimental en Kotlin pour estimer une vitesse relative à partir d'une vidéo locale, avec traitement d'images et intégration Meta prévue. Compétences : Kotlin, Android, vision par ordinateur, lecture vidéo et conception d'application mobile.
 
